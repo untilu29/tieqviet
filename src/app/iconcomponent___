@@ -1,0 +1,139 @@
+<!-- ----------------------------- -->
+ <tr>
+        <td>
+          <!-- Start Icon -->
+          <table style="mso-table-lspace:0pt; mso-table-rspace:0pt; margin: 0 auto; border-collaps:collaps;"
+          class="service-icon" align="left" border="0" cellpadding="0" cellspacing="0" width="146">
+          <tbody>
+            <tr>
+              <td style="text-align: center;">
+                <a style="display:block; " href="#">
+                  <img style="margin: 0 auto; display:block; "
+                  src="http://www.stampready.net/dashboard/editor/user_uploads/zip_uploads/2015/12/01/oncTI6G1FAyKfprJgBtCDNX8/Demo/images/service1.png"
+                  alt="img" width="70">
+                </a>
+              </td>
+            </tr>
+            <tr>
+              <td height="17"></td>
+            </tr>
+            <tr>
+              <td data-color="Service Title" data-size="Service Title" data-min="14" data-max="16"
+              style="text-align:center; font-size:15px; height: 26px; font-family:'Roboto' , arial; font-weight:400 ; color: #525252; ">
+              Social Media
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      <!-- End Icon -->
+      <table class="service-sp"
+      style="mso-table-lspace:0pt; mso-table-rspace:0pt; margin: 0 auto; border-collaps:collaps;"
+      align="left" border="0" cellpadding="0" cellspacing="0" width="1">
+      <tbody>
+        <tr>
+          <td height="20">
+            <p style="padding-left: 6px; margin:0;"></p>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <!-- Start Icon -->
+    <table style="mso-table-lspace:0pt; mso-table-rspace:0pt; margin: 0 auto; border-collaps:collaps;"
+    class="service-icon" align="left" border="0" cellpadding="0" cellspacing="0" width="146">
+    <tbody>
+      <tr>
+        <td style="text-align: center;">
+          <a style="display:block; " href="#">
+            <img mc:edit="services2-image" style="margin: 0 auto; display:block; "
+            src="http://www.stampready.net/dashboard/editor/user_uploads/zip_uploads/2015/12/01/oncTI6G1FAyKfprJgBtCDNX8/Demo/images/service2.png"
+            alt="img" width="70">
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td height="17"></td>
+      </tr>
+      <tr>
+        <td data-color="Service Title" data-size="Service Title" data-min="14" data-max="16"
+        style="text-align:center; font-size:15px; height: 26px; font-family:'Roboto' , arial; font-weight:400 ; color: #525252; ">
+        Creative Design
+      </td>
+    </tr>
+  </tbody>
+</table>
+<!-- End Icon -->
+<table class="service-sp"
+style="mso-table-lspace:0pt; mso-table-rspace:0pt; margin: 0 auto; border-collaps:collaps;"
+align="left" border="0" cellpadding="0" cellspacing="0" width="1">
+<tbody>
+  <tr>
+    <td height="20">
+      <p style="padding-left: 5px; margin:0;"></p>
+    </td>
+  </tr>
+</tbody>
+</table>
+<!-- Start Icon -->
+<table style="mso-table-lspace:0pt; mso-table-rspace:0pt; margin: 0 auto; border-collaps:collaps;"
+class="service-icon" align="left" border="0" cellpadding="0" cellspacing="0" width="146">
+<tbody>
+  <tr>
+    <td style="text-align: center;">
+      <a style="display:block; " href="#">
+        <img style="margin: 0 auto; display:block; "
+        src="http://www.stampready.net/dashboard/editor/user_uploads/zip_uploads/2015/12/01/oncTI6G1FAyKfprJgBtCDNX8/Demo/images/service3.png"
+        alt="img" width="50">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td height="17"></td>
+  </tr>
+  <tr>
+    <td data-color="Service Title" data-size="Service Title" data-min="14" data-max="16"
+    style="text-align:center; font-size:15px; height: 26px; font-family:'Roboto' , arial; font-weight:400 ; color: #525252; ">
+    Web Design
+  </td>
+</tr>
+</tbody>
+</table>
+<!-- End Icon -->
+<table class="service-sp"
+style="mso-table-lspace:0pt; mso-table-rspace:0pt; margin: 0 auto; border-collaps:collaps;"
+align="left" border="0" cellpadding="0" cellspacing="0" width="1">
+<tbody>
+  <tr>
+    <td height="20">
+      <p style="padding-left: 5px; margin:0;"></p>
+    </td>
+  </tr>
+</tbody>
+</table>
+<!-- Start Icon -->
+<table style="mso-table-lspace:0pt; mso-table-rspace:0pt; margin: 0 auto; border-collaps:collaps;"
+class="service-icon" align="left" border="0" cellpadding="0" cellspacing="0" width="146">
+<tbody>
+  <tr>
+    <td style="text-align: center;">
+      <a style="display:block; " href="#">
+        <img style="margin: 0 auto; display:block; "
+        src="http://www.stampready.net/dashboard/editor/user_uploads/zip_uploads/2015/12/01/oncTI6G1FAyKfprJgBtCDNX8/Demo/images/service4.png"
+        alt="img" width="70">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td height="17"></td>
+  </tr>
+  <tr>
+    <td data-color="Service Title" data-size="Service Title" data-min="14" data-max="16"
+    style="text-align:center; font-size:15px; height: 26px; font-family:'Roboto' , arial; font-weight:400 ; color: #525252; ">
+    Online Marketing
+  </td>
+</tr>
+</tbody>
+</table>
+<!-- End Icon -->
+</td>
+</tr>
+<!-- ------------------------------- -->

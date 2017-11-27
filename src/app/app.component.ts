@@ -1,4 +1,9 @@
 import {Component} from '@angular/core';
+import {ActivatedRoute, Router} from '@angular/router';
+import {Subscription} from 'rxjs/Subscription';
+
+
+
 
 @Component({
   selector: 'app-root',
@@ -6,6 +11,8 @@ import {Component} from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
+    public subscription: Subscription;
+
   title = 'app';
   maps = [
     ['kh', 'x'],
@@ -24,6 +31,21 @@ export class AppComponent {
     ['nh', 'n\'']
   ];
 
+  inputs ='';
+  values = '';
+
+  constructor(private router: Router, private activatedRoute: ActivatedRoute) {
+
+  };
+
+  ngOnInit(){
+    this.subscription = this.activatedRoute.params.subscribe(params => {
+      this.inputs = typeof params['id']!=='undefined'?params['id']:'';
+      this.values = this.onProcessing(this.inputs);
+    });
+
+  }
+
   capitalize = string => `${string.charAt(0).toUpperCase()}${string.slice(1)}`;
   convert = (input, map) => {
     return input
@@ -39,7 +61,11 @@ export class AppComponent {
       input = this.convert(input, map);
     });
 
-    console.log(input);
     return input;
+  }
+
+  onKey(event: any) { // without type info
+    this.values = this.onProcessing(event.target.value);
+    history.pushState(null,null,'/#/'+encodeURI(event.target.value));
   }
 }
